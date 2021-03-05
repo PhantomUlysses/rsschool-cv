@@ -1,4 +1,4 @@
-1. Mikita Stasiulevich.
+1. **Mikita Stasiulevich**.
 2. nikitastas1694@gmail.com   tel: +375298867950.
 3. Information about myself.
 4. JavaScript, HTML, CSS, Git.
